@@ -1,6 +1,6 @@
 variable "aws_region" {
   description = "The AWS region to use to create resources."
-  default     = "us-east-2"
+  default     = "us-west-2"
 }
 
 variable "bucket_prefix" {
